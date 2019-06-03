@@ -1,2 +1,2 @@
 # csslightbox
-Check out my lightweight CSS-only lightbox gallery at http://diversity.me.pn/
+Check out my lightweight CSS-only lightbox gallery at https://stefanboz.github.io/csslightbox/
